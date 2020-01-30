@@ -1,0 +1,13 @@
+  .defaultHeader,
+  .juicesHeader {
+   --min-height: calc(100vh - 80px);
+    min-height: 80vh;
+    background: url("../images/headerDefault.jpg") center/cover no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .juicesHeader {
+    background-image: url("../images/juiceDefault.jpg");
+    min-height: 60vh;
+  }
