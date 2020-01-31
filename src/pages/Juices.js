@@ -11,7 +11,7 @@ const Juices =() =>{
     <Header header="juicesHeader">
         <Banner title='Variedad'>
             <Link to="/" className='btn-primary'>
-                Regresar a Inicio
+                Inicio
             </Link>
         </Banner>
     </Header>

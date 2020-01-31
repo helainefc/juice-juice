@@ -43,7 +43,7 @@ export default function JuicesFilter({ juices }) {
     })
     return (
         <section className="filter-container">
-            <Title title="buscar jugos"></Title>
+            <Title title="Encuentra tu favorito"></Title>
             <form className="filter-form">
                 {/*select type*/}
                 <div className="form-group">

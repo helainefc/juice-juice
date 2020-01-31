@@ -11,7 +11,7 @@ export default function Home() {
         
         <>
         <Header>
-            <Banner title="Jugos" subtitle="Jugos llenos de vitaminas desde $10.00">
+            <Banner title="Jugos" subtitle="Jugos llenos de vitaminas desde $15.00">
                 <Link to="/juices" className="btn-primary">Nuestro menú</Link>
             </Banner>
         </Header>

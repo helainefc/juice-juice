@@ -33,9 +33,9 @@ export default class SingleJuice extends Component {
         return (
             <>
                 <StyleHeader img={image || this.state.defaultImage}>
-                    <Banner title={`${name} juice`}>
+                    <Banner title={`${name}`}>
                         <Link to="/juices" className="btn-primary">
-                            Regreso a Jugos
+                            Variedad
                         </Link>
                     </Banner>
                 </StyleHeader>
