@@ -11,17 +11,17 @@ export default class Benefits extends Component {
             {
                 icon: <GiSunrise />,
                 title: "Saludables",
-                info: "Un jugo de naranja en ayunas es una manera fantástica de limpiar y purificar el organismo"
+                info: "Un jugo de naranja en ayunas es una manera fantástica de limpiar y purificar el organismo."
             },
             {
                 icon: <GiFruitBowl />,
                 title: "Variedad de Sabores",
-                info: "Para toda la familia"
+                info: "Para toda la familia."
             },
             {
                 icon: <GiFruitTree />,
                 title: "100% Naturales",
-                info: "Sin consenservadores"
+                info: "Sin consenservadores."
             }
 
         ]
