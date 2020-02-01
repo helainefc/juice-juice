@@ -12,10 +12,10 @@ export default function Juice({ juice }) {
                 <img src={image || defaultImage} alt="juice" />
                 <div className="price-top">
                     <h6>${priceBig}</h6>
-                    <p>por litro</p>
+                    <p>Por litro</p>
                 </div>
                 <Link to={`/juices/${slug}`} className="btn-primary juice-link">
-                    Veamos..
+                    Veamos.....
                 </Link>
             </div>
             <p className="juice-info">{name}</p>
